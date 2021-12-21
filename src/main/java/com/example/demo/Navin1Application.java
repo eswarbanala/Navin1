@@ -11,7 +11,6 @@ public class Navin1Application {
 		
 		System.out.println("Hellow World..");
 		System.out.println("testing git..");
-		System.out.println("testing git..");
 		
 	}
 
