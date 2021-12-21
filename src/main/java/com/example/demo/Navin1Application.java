@@ -10,6 +10,9 @@ public class Navin1Application {
 		SpringApplication.run(Navin1Application.class, args);
 		
 		System.out.println("Hellow World..");
+		System.out.println("testing git..");
+		System.out.println("testing git..");
+		
 	}
 
 }
